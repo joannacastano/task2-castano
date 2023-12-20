@@ -1,0 +1,15 @@
+Task 2: Install and Use a Plugin
+
+Go to the Jenkins dashboard.
+
+Click on "Manage Jenkins" > "Manage Plugins."
+
+Install a plugin of your choice. (e.g., "GitHub Integration," "Docker," or any other plugin that interests you).
+
+Configure the plugin according to your needs.
+
+Create a job that uses the installed plugin. For example, if you installed the GitHub Integration plugin, create a job that triggers builds on code commits.
+
+Save the project ( ex. task2-lastname ).
+
+Provide a screenshot and the build url.
